@@ -30,7 +30,7 @@ const Works = () => (
         </Section>
         <Section>
           <WorkGridItem
-            id="walknote"
+            id="walknot"
             title="Swagger-APIREST"
             thumbnail={thumbWalknote}
           >
@@ -41,7 +41,7 @@ const Works = () => (
 
         <Section delay={0.1}>
           <WorkGridItem
-            id="fourpainters"
+            id="fourpainter"
             title="Chatbot"
             thumbnail={thumbFourPainters}
           >
@@ -51,7 +51,7 @@ const Works = () => (
           </WorkGridItem>
         </Section>
         <Section delay={0.1}>
-          <WorkGridItem id="menkiki" thumbnail={thumbMenkiki} title="SNMP-OIDS">
+          <WorkGridItem id="menkik" thumbnail={thumbMenkiki} title="SNMP-OIDS">
             An app that you can use to get the information of the network devices that are connected to the network by using the SNMP protocol
 
           </WorkGridItem>
@@ -68,13 +68,13 @@ const Works = () => (
 
       <SimpleGrid columns={[1, 1, 2]} gap={6}>
         <Section delay={0.3}>
-          <WorkGridItem id="margelo" thumbnail={thumbMargelo} title="Herramientas-web">
+          <WorkGridItem id="margel" thumbnail={thumbMargelo} title="Herramientas-web">
             A website of casavision that i contribute to make the design and the functionality of the website with JS
           </WorkGridItem>
         </Section>
         <Section delay={0.3}>
           <WorkGridItem
-            id="modetokyo"
+            id="modetoky"
             thumbnail={thumbModeTokyo}
             title="EXPEDOC"
           >
@@ -98,13 +98,13 @@ const Works = () => (
 
       <SimpleGrid columns={[1, 1, 2]} gap={6}>
         <Section delay={0.5}>
-          <WorkGridItem id="pichu2" thumbnail={thumbPichu2} title="GYMCHECK">
+          <WorkGridItem id="pichu" thumbnail={thumbPichu2} title="GYMCHECK">
             A  kotlin app that you can use to make the check-in of the clients of the gym
           </WorkGridItem>
         </Section>
         <Section delay={0.5}>
           <WorkGridItem
-            id="freedbtagger"
+            id="freedbtagge"
             thumbnail={thumbFreeDBTagger}
             title="Mokepon"
           >
@@ -112,7 +112,7 @@ const Works = () => (
           </WorkGridItem>
         </Section>
         <Section delay={0.6}>
-          <WorkGridItem id="amembo" thumbnail={thumbAmembo} title="SYSTEM ENTRY AND EXIT CONTROL ">
+          <WorkGridItem id="amemb" thumbnail={thumbAmembo} title="SYSTEM ENTRY AND EXIT CONTROL ">
             A system that you can use to make the entry and exit control of the employees of the company
           </WorkGridItem>
         </Section>
